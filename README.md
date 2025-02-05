@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on topics revolving around Artificial Intelligence
-- 📫 Reach me via email on utkarsh20052002@gmail.com or LinkedIN https://www.linkedin.com/in/utkarshsingh2002/
+- 📫 Reach me via email on LinkedIN https://www.linkedin.com/in/utkarshsingh2002/
 - 😄 Pronouns: He/Him
 
 <!---
