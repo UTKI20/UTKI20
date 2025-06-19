@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UTKI20
+- 👋 Hi, I’m @Utkarsh
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on topics revolving around Artificial Intelligence
